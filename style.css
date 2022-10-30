@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 240, 226);
+
+}
+canvas{
+    /* border: 1px solid black; */
+    border-radius: 3px;
+}
+
+
+.information{
+    margin-left: 20px;
+
+}
